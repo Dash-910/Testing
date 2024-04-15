@@ -1,1 +1,3 @@
 This is for first commit of file2
+
+i am writing from the main branch
